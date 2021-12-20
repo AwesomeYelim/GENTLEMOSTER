@@ -57,22 +57,22 @@ $(function(){
     var typingIdx = 0; 
     var liIndex = 0;
     var a = $(this).index();
-    var typingTxt = $(".typing.txt1").text(); // 타이핑될 텍스트를 가져온다
+    var typingTxt = $(".typing.txt1").text(); 
      
-    typingTxt = typingTxt.split(""); // 한글자씩 자른다. 
-    if(typingBool == false){ // 타이핑이 진행되지 않았다면 
+    typingTxt = typingTxt.split(""); 
+    if(typingBool == false){ 
        typingBool = true; 
-       var tyInt = setInterval(typing,100); // 반복동작 
+       var tyInt = setInterval(typing,100); 
      } 
      function typing(){ 
       $(".t_space").removeClass("on");
       $(".t_space").eq(liIndex).addClass("on");
       
-       if(typingIdx < typingTxt.length){ // 타이핑될 텍스트 길이만큼 반복 
-         $(".t_space.t_1").append(typingTxt[typingIdx]); // 한글자씩 이어준다. 
+       if(typingIdx < typingTxt.length){ 
+         $(".t_space.t_1").append(typingTxt[typingIdx]);
          typingIdx++; 
        } else{ 
-         clearInterval(tyInt); //끝나면 반복종료 
+         clearInterval(tyInt); 
        } 
      } 
      
