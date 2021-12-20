@@ -1,4 +1,4 @@
-# Click 👉<a href = 'https://awesomeyelim.github.io/GENTLEMOSTER/'> GENTLEMOSTER</a>
+# Click 👉<a href = 'https://awesomeyelim.github.io/GENTLEMOSTER/' target='_blank'> GENTLEMOSTER</a>
   - 젠틀몬스터 이벤트 페이지 + 메인 페이지 구현
   - 스크롤 이벤트 + perspective 로 동적 구현
   - 타이핑 효과 
