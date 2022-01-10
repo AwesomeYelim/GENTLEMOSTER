@@ -7,4 +7,7 @@
   - 젠틀몬스터 이벤트 페이지 + 메인 페이지 구현
   - 이벤트 구현 : 스크롤 이벤트 + perspective, 타이핑 효과, 클릭시 스크롤 이동
   - 여러 css 애니메이션 구현
-![gentle](https://user-images.githubusercontent.com/93499143/148843177-0393001a-ee6a-4b65-a34b-2f128b0b3562.gif)
+<br>
+<br>
+<br>
+![gentle](https://user-images.githubusercontent.com/93499143/148843277-8bf0cdd7-bc01-412a-9a42-cba4aadbc67e.gif)
