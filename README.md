@@ -1,5 +1,5 @@
 # Click 👉<a href = 'https://awesomeyelim.github.io/GENTLEMOSTER/'> GENTLEMOSTER</a>
-  - 기간 : 21.9.10 ~ 11
+  - 기간 : 21.9.10 ~ 21.9.11
   - 목적 : 젠틀몬스터 시즌관련 이벤트 페이지 제작
   - 반응형 : O
   - 사용스택 : javascript
